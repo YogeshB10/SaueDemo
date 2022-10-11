@@ -1,0 +1,27 @@
+2022-10-09 16:43:34,660  INFO [main] SauceDemo:43 - browser is opened
+2022-10-09 16:43:34,785  INFO [main] SauceDemo:47 - browser is maximized
+2022-10-09 16:43:35,143  INFO [main] SauceDemo:50 - SauceDemo URL is opened
+2022-10-09 16:43:36,114  INFO [main] SauceDemo:26 - apply the validation
+2022-10-09 16:43:36,120  INFO [main] SauceDemo:31 - Swag Labs
+2022-10-09 16:43:36,897  INFO [main] SauceDemo:78 - browser is closed
+2022-10-09 16:43:36,897  INFO [main] SauceDemo:79 - end of Program
+2022-10-09 16:43:37,564  INFO [main] SauceDemo:43 - browser is opened
+2022-10-09 16:43:37,704  INFO [main] SauceDemo:47 - browser is maximized
+2022-10-09 16:43:37,948  INFO [main] SauceDemo:50 - SauceDemo URL is opened
+2022-10-09 16:43:38,780  INFO [main] SauceDemo:29 - apply the validation
+2022-10-09 16:43:39,491  INFO [main] SauceDemo:78 - browser is closed
+2022-10-09 16:43:39,492  INFO [main] SauceDemo:79 - end of Program
+2022-10-09 16:43:40,153  INFO [main] SauceDemo:43 - browser is opened
+2022-10-09 16:43:40,300  INFO [main] SauceDemo:47 - browser is maximized
+2022-10-09 16:43:40,524  INFO [main] SauceDemo:50 - SauceDemo URL is opened
+2022-10-09 16:43:41,511  INFO [main] SauceDemo:33 - actual product->1
+2022-10-09 16:43:41,511  INFO [main] SauceDemo:35 - apply validation
+2022-10-09 16:43:42,173  INFO [main] SauceDemo:78 - browser is closed
+2022-10-09 16:43:42,173  INFO [main] SauceDemo:79 - end of Program
+2022-10-09 16:43:42,856  INFO [main] SauceDemo:43 - browser is opened
+2022-10-09 16:43:42,982  INFO [main] SauceDemo:47 - browser is maximized
+2022-10-09 16:43:43,217  INFO [main] SauceDemo:50 - SauceDemo URL is opened
+2022-10-09 16:43:44,332  INFO [main] SauceDemo:32 - actual product->6
+2022-10-09 16:43:44,333  INFO [main] SauceDemo:34 - apply validation
+2022-10-09 16:43:44,996  INFO [main] SauceDemo:78 - browser is closed
+2022-10-09 16:43:44,996  INFO [main] SauceDemo:79 - end of Program
